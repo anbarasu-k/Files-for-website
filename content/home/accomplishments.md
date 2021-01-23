@@ -39,6 +39,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "School of Marine and Atmospheric Sciences, SBU"
+  organization_url = "https://www.somas.stonybrook.edu"
+  title = "SoMAS Dean's Seed Grant 2020"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = "Awarded a grant of $30,000 to study the bothrosome compostion and dynamics in Aurantiochytrium limacinum"
+
+[[item]]
   organization = "Molecular Plasticity of Microalgal Stress Response"
   organization_url = "http://www.iitbmonash.org"
   title = "Best Ph.D. thesis award nomination"
